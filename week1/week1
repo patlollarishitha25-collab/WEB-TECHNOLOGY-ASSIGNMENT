@@ -1,0 +1,32 @@
+<html>
+    <body bgcolor="pink" ALIGN="center">
+        <H2>MOBILE STORE </H2>
+        <TABLE BORDER="3" ALIGN="CENTER">
+         <TR>
+            <TD>S.NO</TD>
+            <TD>PRODUCT</TD>
+            <TD>IMAGE</TD>
+            <TD>PRODUCT INFO</TD>
+            <TD>FEATURES</TD>
+            <TD>VEDIO</TD>
+         </TR>
+         <TR><TD>1</TD>
+            <td>
+                MOTOROLA G60
+            </td>
+            <TD><IMG SRC="img1.webp"HEIGHT="100" WIDTH="100"></TD>
+                <TD><OL><LI>16 GB</LI>
+                    <LI>6.5 INCHES</LI>
+                    <LI>6000 MAH</LI>
+<TD>
+    <a href="https://reviews.oneclearwinner.com/product/motorola-edge-60-fusion/">click here to know</a>
+</TD>
+<td>
+    <a href="https://www.youtube.com/shorts/He92HK7FWqo">click here to watch vedio</a>
+</td>
+         </TR>
+        </TABLE>
+    </body>
+    <h3 align="center">P.RISHITHA </h3>
+    <h3 align="center">24881A1251</h3>
+</html>
