@@ -8,17 +8,17 @@
         Designed a static Mobile Store web page using HTML that displays product details, images, features, and links to product information and videos.
 
 **WEEK-2:**
- **FRAME.html:**
+ ## FRAME.html:
        This HTML file creates the main layout of the website using nested frames. It divides the page into a top header frame and two lower frames for navigation and content display.
-**FRAME1.html:**
+## FRAME1.html:
         This page serves as the website header by displaying the college name in a scrolling marquee along with the Vardhaman College of Engineering logo.
-**FRAME2.html:**
+## FRAME2.html:
         This page provides navigation links to the official website, About Us page, and Faculty Details page. The selected content is displayed in the main content frame.
-**FRAME3.html:**
+## FRAME3.html:
         This page acts as the default welcome screen, displaying a welcome message for Vardhaman College of Engineering in the main content area.
-**TABLE.html:**
+## TABLE.html:
         This page displays faculty information in a table format, including faculty name, department, ID, and designation.
-**ABOUTUS.html:**
+## ABOUTUS.html:
       This page provides a brief introduction to Vardhaman College of Engineering, highlighting its history, academic programs, and commitment to quality education.
 
 **WEEK-3:**
